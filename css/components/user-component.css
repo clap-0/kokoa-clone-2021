@@ -25,6 +25,13 @@
   margin-top: 8px;
   font-size: 17px;
   color: var(--gray);
+  display: flex;
+  align-items: center;
+}
+
+.user-component__subtitle .fa-info-circle {
+  margin-left: 5px;
+  color: tomato;
 }
 
 .user-component__avatar--xl {
